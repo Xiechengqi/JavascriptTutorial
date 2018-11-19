@@ -7,7 +7,7 @@
 
 ## 目前五个主要浏览器：IE、FireFox、Chrome、Safari和Opera占比查看[网站](http://gs.statcounter.com/)
 <div align=center>
-<img src="./images/browerZhanBi.png">
+<img src="./images/browerZhanBi.png" width=75% heigth=75% /><br/>各大浏览器占比图
 </div>
 
 ECMAScript 中的一切（变量、函数名、操作符）都区分大小写
